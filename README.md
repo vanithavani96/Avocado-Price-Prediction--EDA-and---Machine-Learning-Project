@@ -76,3 +76,5 @@ A repository of final project
 ### Acknowledgements:
 * The data scraped was entirely for educational purposes only. Note that I don’t claim any copyright for the data.
 * Source: Kaggle
+### Notes:
+For the Detailed Information about the Project, Kindly refer the Avocado Price Prediction.pdf" file attached with this Repo.
